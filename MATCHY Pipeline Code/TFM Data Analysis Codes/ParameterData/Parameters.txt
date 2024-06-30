@@ -1,0 +1,18 @@
+pixel2um 0.325
+YoungModulus 6000
+PoissonRatio 0.5
+Regularization 8.0000E-11
+vector 0.01
+max 1000
+piv1 128
+sw1 256
+vs1 64
+piv2 64
+sw2 128
+vs2 32
+piv3 32
+sw3 64
+vs3 16
+//-----------------------------------------------
+channel Bead CY5
+//-----------------------------------------------

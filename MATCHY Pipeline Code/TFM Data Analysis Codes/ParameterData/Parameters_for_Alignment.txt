@@ -1,0 +1,10 @@
+initial_gaussian_blur 1.6
+steps_per_scale_octave 3
+minimum_image_size 64
+maximum_image_size 2048
+feature_descriptor_size 4
+feature_descriptor_orientation_bins 8
+closest_next_closest_ratio 0.92
+maximal_alignment_error 25
+inlier_ratio 0.05
+expected_transformation Rigid
